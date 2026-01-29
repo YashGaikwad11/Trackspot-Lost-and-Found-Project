@@ -69,6 +69,5 @@ TrackSpot is a web-based Lost and Found Management System designed to help users
 
 ---
 
-## 📂 Project Structure
 
 
